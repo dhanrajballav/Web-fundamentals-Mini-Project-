@@ -25,6 +25,6 @@ A sleek, modern, and fully responsive portfolio website designed to showcase my 
 
 ## 📸 Output Screenshot
 ![Responsive Personal Portfolio](output1.jpeg)
-![](output2.png.pmg)
-![](output3.png.png)
-![](output4.png.png)
+![](output2.jpeg)
+![](output3.jpeg)
+![](output4.jpeg)
