@@ -8,9 +8,6 @@ A sleek, modern, and fully responsive portfolio website designed to showcase my 
 
 ---
 
-## 🔗 Live Demo
-Check out the live site here: **[Insert Your Link Here, e.g., GitHub Pages/Netlify]**
-
 ## ✨ Features
 * **Fully Responsive:** Optimized for mobile, tablet, and desktop screens.
 * **Dynamic Navigation:** Smooth scrolling and an active-link indicator.
@@ -26,13 +23,8 @@ Check out the live site here: **[Insert Your Link Here, e.g., GitHub Pages/Netli
 * **FontAwesome:** For intuitive iconography.
 * **Google Fonts:** For modern typography.
 
-## 📂 Project Structure
-```text
-├── index.html          # Main HTML structure
-├── assets/
-│   ├── css/
-│   │   └── style.css   # Main stylesheet
-│   ├── js/
-│   │   └── script.js  # Interactive logic
-│   └── images/         # Project screenshots and icons
-└── README.md           # Project documentation
+## 📸 Output Screenshot
+![Responsive Personal Portfolio](output1.png.png)
+![](output2.png.pmg)
+![](output3.png.png)
+![](output4.png.png)
