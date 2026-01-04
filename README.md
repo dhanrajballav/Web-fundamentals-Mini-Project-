@@ -24,7 +24,7 @@ A sleek, modern, and fully responsive portfolio website designed to showcase my 
 * **Google Fonts:** For modern typography.
 
 ## 📸 Output Screenshot
-![Responsive Personal Portfolio](output1.png.png)
+![Responsive Personal Portfolio](output1.jpeg)
 ![](output2.png.pmg)
 ![](output3.png.png)
 ![](output4.png.png)
